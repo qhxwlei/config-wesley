@@ -1,2 +1,4 @@
 server:
   port: 4103
+config:
+  info: 生产环境
