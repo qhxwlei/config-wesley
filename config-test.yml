@@ -1,4 +1,2 @@
-server:
-  port: 4102
 config:
-  info: 测试环境
+  file-name: config-test.yml
